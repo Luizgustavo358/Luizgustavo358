@@ -12,7 +12,7 @@ Science Computer Student @PUCMG, Trainee Developer @Instituto Aquila
 **Personal Info:**
 
 - 💻 Currently working as a Trainee @Instituto Aquila, a Brazilian Consulting company
-- 🔬 Science Computer student in Computer Science @PUCMG: Focused on Computer Networks, Urban Mobility, Vehicular Networks and Intelligent Transportation System (ITS)
+- 🔬 Science Computer student in Computer Science @PUCMG
 - 🌱 Learning the best practices of Web Development
 
 

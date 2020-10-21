@@ -4,10 +4,8 @@
 
 Science Computer Student @PUCMG, Trainee Developer @Instituto Aquila
 
-[![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Gustavo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizgbraganca/)](https://www.linkedin.com/in/luizgbraganca/) 
-[![Gmail Badge](https://img.shields.io/badge/-luiz.gustavo358@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.gustavo358@gmail.com)](mailto:luiz.gustavo358@gmail.com)
-
-<!-- <img align='right' src="https://github.com/glucianog/glucianog/blob/master/assets/developer.png?raw=true" width="400"> -->
+[![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizgbraganca/)](https://www.linkedin.com/in/luizgbraganca/) 
+[![Gmail Badge](https://img.shields.io/badge/-luiz.gustavo358@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.gustavo358@gmail.com)](mailto:luiz.gustavo358@gmail.com)
 
 **Personal Info:**
 

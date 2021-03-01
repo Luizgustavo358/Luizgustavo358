@@ -2,16 +2,13 @@
 ### I'm,
 # Luiz Gustavo
 
-Science Computer Student @PUCMG, Trainee Developer @Instituto Aquila
-
 [![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizgbraganca/)](https://www.linkedin.com/in/luizgbraganca/) 
 [![Gmail Badge](https://img.shields.io/badge/-luiz.gustavo358@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.gustavo358@gmail.com)](mailto:luiz.gustavo358@gmail.com)
 
 **Personal Info:**
 
-- 💻 Currently working as a Trainee @Instituto Aquila, a Brazilian Consulting company
-- 🔬 Science Computer student in Computer Science @PUCMG
-- 🌱 Learning the best practices of Web Development
+- 🔬 Graduated in Computer Science @PUCMG
+- 🌱 Learning the best practices of Web and Mobile Development
 
 
 **Stack and Tools**  

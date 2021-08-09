@@ -1,32 +1,46 @@
-### Oh, hey there! 👋😀
-### I'm,
+### Olá! 👋😀
+### Eu sou,
 # Luiz Gustavo
 
-[![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizgbraganca/)](https://www.linkedin.com/in/luizgbraganca/) 
-[![Gmail Badge](https://img.shields.io/badge/-luiz.gustavo358@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.gustavo358@gmail.com)](mailto:luiz.gustavo358@gmail.com)
+## Contatos:
 
-**Personal Info:**
+<div>
+    <a href = "mailto:luiz.gustavo358@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/luizgbraganca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.youtube.com/c/Tradi%C3%A7%C3%B5esdeMinas/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
+<br>
 
-- 🔬 Graduated in Computer Science @PUCMG
-- 🌱 Learning the best practices of Web and Mobile Development
+## Informações Pessoais:
 
+- 🔬 Graduado em Ciências da Computação, na PUC Minas
+- 🌱 Aprendendo as melhores práticas de desenvolvimento Web e Mobile
+- 🎥 Criador do Canal Tradições de Minas
 
-**Stack and Tools**  
+## Stack:
 
-<code><img height="20" src="https://raw.githubusercontent.com/Luizgustavo358/Luizgustavo358/bfde4806ed3a8239af16368e02b38caf129962b3/assets/icons/html5.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Luizgustavo358/Luizgustavo358/bfde4806ed3a8239af16368e02b38caf129962b3/assets/icons/javascript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Luizgustavo358/Luizgustavo358/bfde4806ed3a8239af16368e02b38caf129962b3/assets/icons/css3.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Luizgustavo358/Luizgustavo358/bfde4806ed3a8239af16368e02b38caf129962b3/assets/icons/Ruby_On_Rails.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Luizgustavo358/Luizgustavo358/bfde4806ed3a8239af16368e02b38caf129962b3/assets/icons/ruby.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Luizgustavo358/Luizgustavo358/bfde4806ed3a8239af16368e02b38caf129962b3/assets/icons/java.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Luizgustavo358/Luizgustavo358/bfde4806ed3a8239af16368e02b38caf129962b3/assets/icons/react.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Luizgustavo358/Luizgustavo358/bfde4806ed3a8239af16368e02b38caf129962b3/assets/icons/android.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Luizgustavo358/Luizgustavo358/bfde4806ed3a8239af16368e02b38caf129962b3/assets/icons/vscode.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Luizgustavo358/Luizgustavo358/bfde4806ed3a8239af16368e02b38caf129962b3/assets/icons/git.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Luizgustavo358/Luizgustavo358/bfde4806ed3a8239af16368e02b38caf129962b3/assets/icons/postgresql.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Luizgustavo358/Luizgustavo358/bfde4806ed3a8239af16368e02b38caf129962b3/assets/icons/python.svg"></code>
+<div style="display: inline_block">
+  <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luiz-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Luiz-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+</div>
+<div style="display: inline_block">
+    <img align="center" alt="Luiz-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+    <img align="center" alt="Luiz-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+    <img align="center" alt="Luiz-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Luiz-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="Luiz-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+</div>
+<br>
+
+---
   
-*PS: Down bellow are listed the most used languages and some Github status about this profile. It's a feature aprovided by Github Readme Stats. Click [here](https://github.com/anuraghazra/github-readme-stats), and check out how to display your own status.*
+<br>
 
 ![Luizgustavo358 Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizgustavo358&show_icons=true&hide_border=true&layout=compact&theme=tokyonight)
 ![Luizgustavo358 Stats](https://github-readme-stats.vercel.app/api?username=Luizgustavo358&show_icons=true&theme=tokyonight)

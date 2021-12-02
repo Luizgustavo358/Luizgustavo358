@@ -15,7 +15,7 @@
 
 - 🔬 Graduado em Ciências da Computação, na PUC Minas
 - 🌱 Aprendendo as melhores práticas de desenvolvimento Web e Mobile
-- 🎥 Criador do Canal Tradições de Minas
+- 🎥 Criador do Canal [Tradições de Minas](https://www.youtube.com/c/Tradi%C3%A7%C3%B5esdeMinas)
 
 ## Stack:
 
